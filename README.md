@@ -184,7 +184,7 @@ ExperienceLevel  EmployeeCount
 ## Author
 
 **Ahmed Elsayed** — Data Analyst
-[LinkedIn](www.linkedin.com/in/ahmed-elsayed77) · [Portfolio](https://ahmedelsayed77-portfolio.netlify.app) · [GitHub](https://github.com/AhmedElsayed77)
+[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed77/) · [Portfolio](https://ahmedelsayed77-portfolio.netlify.app) · [GitHub](https://github.com/AhmedElsayed77)
 
 ---
 
